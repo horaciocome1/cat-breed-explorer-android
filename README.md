@@ -30,7 +30,7 @@ CatBreedExplorer is a native Android app that allows users to explore various ca
 2. Open the project in your preferred IDE.
 3. Install `CMake` and `NDK` from `SDK Manager -> SDK Tools`
 4. Ask for `libnative-lib.cpp`
-5. Copy received `libnative-lib.cpp` to `app/src/main`
+5. Copy received `libnative-lib.cpp` to `app/src/main/cpp`
 6. Build and run the app on your Android device/emulator.
 
 ## Usage
