@@ -1,5 +1,5 @@
 [versions]
-agp = "8.3.0-alpha09"
+agp = "8.1.1"
 kotlin = "1.9.0"
 core-ktx = "1.12.0"
 junit = "4.13.2"
@@ -18,7 +18,7 @@ coroutines = "1.7.2"
 datastore-preferences = "1.0.0"
 compose-destinations = "1.9.54"
 coil-compose = "2.4.0"
-hilt-navigation-compose = "1.0.0"
+hilt-navigation-compose = "1.1.0"
 
 # TODO bump to 1.13.8 when https://github.com/mockk/mockk/issues/1168 is fixed
 # noinspection GradleDependency

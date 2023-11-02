@@ -27,7 +27,7 @@ CatBreedExplorer is a native Android app that allows users to explore various ca
 
 1. Clone the
    repository: `git clone https://horaciocome1-admin@bitbucket.org/horaciocome1/cat-breed-explorer-android.git`
-2. Open the project in your preferred IDE.
+2. Open the project in your preferred IDE (requires *Android Studio Giraffe | 2022.3.1 Patch 2*)
 3. Install `CMake` and `NDK` from `SDK Manager -> SDK Tools`
 4. Ask for `libnative-lib.cpp`
 5. Copy received `libnative-lib.cpp` to `app/src/main/cpp`
