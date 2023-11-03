@@ -1,5 +1,7 @@
 # Cat Breed Explorer
 
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/horaciocome1/cat-breed-explorer-android/android-build.yml?label=build) ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/horaciocome1/cat-breed-explorer-android/android-testing.yml?label=unit%20test) ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/horaciocome1/cat-breed-explorer-android/android-lint.yml?label=lint) ![GitHub top language](https://img.shields.io/github/languages/top/horaciocome1/cat-breed-explorer-android) ![GitHub release (with filter)](https://img.shields.io/github/v/release/horaciocome1/cat-breed-explorer-android) ![GitHub repo size](https://img.shields.io/github/repo-size/horaciocome1/cat-breed-explorer-android) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/horaciocome1/cat-breed-explorer-android) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/horaciocome1/cat-breed-explorer-android)
+
 CatBreedExplorer is a native Android app that allows users to explore various cat breeds using TheCatAPI. The app provides a comprehensive list of cat breeds, including images, origins, and detailed information. Users can mark their favorite breeds, search for specific breeds, and even explore offline with locally stored data.
 
 ## Features
