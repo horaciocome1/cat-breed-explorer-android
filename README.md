@@ -4,6 +4,8 @@
 
 CatBreedExplorer is a native Android app that allows users to explore various cat breeds using TheCatAPI. The app provides a comprehensive list of cat breeds, including images, origins, and detailed information. Users can mark their favorite breeds, search for specific breeds, and even explore offline with locally stored data.
 
+Multiplatform (Android; iOS) -> https://github.com/horaciocome1/cat-breed-explorer-multiplatform
+
 ## Features
 
 - **Breed List Screen:**
